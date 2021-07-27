@@ -1,0 +1,2 @@
+# DNN-for-NILM
+In this project, we've tried applying various DNNs to the problem of non-intrusive load monitoring (NILM) and compared their results for various appliances using the REDD dataset. We took a sliding window approach in hopes that we'll be able to achieve real time disaggregation with further tuning and testing. We compare the disaggregated energy consumption results based on MSE, MAE, Relative Error and F1 Score.
